@@ -1,0 +1,18 @@
+/*
+* Author: Dennis Ji
+* Template: Metro Admin Template - Bootstrap Theme
+* Version: 1.0.0
+* Bootstrap version: 2.3.1
+* Copyright 2013 Bootstrap Metro Dashboard
+* www: http://clabs.co
+* mail: lukasz@clabs.co
+* You can buy this theme on WrapBootstrap: https://wrapbootstrap.com/user/Bootstrap Metro Dashboard
+*/
+
+/* Import Section
+=================================================================== */
+ 
+@import url("jquery.noty.css");											/* Noty Notifications Style */
+@import url("noty_theme_default.css");									/* Noty Notifications Style */
+/* Main Colors
+=================================================================== */
